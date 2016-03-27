@@ -2,6 +2,7 @@ name: genesis
 favicon: null
 layout_spectrum: 0.39292857609689236
 typography_spectrum: 0.4973942106589675
+title: Genesis Clinics
 cta:
   domain: null
   bucket: null
